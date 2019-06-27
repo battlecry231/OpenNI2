@@ -21,9 +21,9 @@
 #ifndef _ONI_DRIVER_API_H_
 #define _ONI_DRIVER_API_H_
 
-#include "OniPlatform.h"
-#include "OniCTypes.h"
-#include "OniCProperties.h"
+#include "../OniPlatform.h"
+#include "../OniCTypes.h"
+#include "../OniCProperties.h"
 #include "OniDriverTypes.h"
 #include <stdarg.h>
 

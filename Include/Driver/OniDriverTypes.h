@@ -21,7 +21,7 @@
 #ifndef _ONI_DRIVER_TYPES_H_
 #define _ONI_DRIVER_TYPES_H_
 
-#include <OniCTypes.h>
+#include "../OniCTypes.h"
 #include <stdarg.h>
 
 #define ONI_STREAM_PROPERTY_PRIVATE_BASE XN_MAX_UINT16

@@ -21,7 +21,7 @@
 #ifndef _PS1080_H_
 #define _PS1080_H_
 
-#include <OniCTypes.h>
+#include "OniCTypes.h"
 
 /** The maximum permitted Xiron device name string length. */ 
 #define XN_DEVICE_MAX_STRING_LENGTH 200
